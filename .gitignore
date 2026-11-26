@@ -19,3 +19,4 @@ _insttest/
 .device.json
 _poll_token.sh
 .ghlogin.txt
+_market-submit.log
