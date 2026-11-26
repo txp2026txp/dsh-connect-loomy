@@ -1,0 +1,6 @@
+url: https://github.com/txp2026txp/dsh-connect-loomy
+name: txp2026txp/dsh-connect-loomy
+category: model
+description:
+  en: 'Connects the Xunfei Loomy desktop client to DeepSeek Harness as a model provider, reusing its local sign-in session to list models, stream chats and read the points balance.'
+  zh: '把讯飞 Loomy 桌面端接成 DSH 模型提供方：复用本机登录态，拉取真实模型目录、流式对话并读取积分余额，无需另申请 API Key。'

@@ -1,0 +1,4 @@
+# 只注册 provider 路由，不改默认模型；复用 Loomy 桌面端登录态，不走 OAuth。
+- insert:
+    - id: dsh-connect-loomy
+      name: dsh-connect-loomy
